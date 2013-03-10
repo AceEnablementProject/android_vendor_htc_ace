@@ -29,7 +29,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/ace/proprietary/libgemini.so:/system/lib/libgemini.so \
     vendor/htc/ace/proprietary/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
-    vendor/htc/ace/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so
+    vendor/htc/ace/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so \
+    vendor/htc/ace/proprietary/libjni_latinime.so:obj/lib/libjni_latinime.so \
+    vendor/htc/ace/proprietary/libjni_latinime.so:system/lib/libjni_latinime.so
 
 # camera blobs 
 PRODUCT_COPY_FILES += \

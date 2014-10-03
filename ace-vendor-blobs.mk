@@ -21,8 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/hw/gps.spade.so:/system/lib/hw/gps.spade.so \
     vendor/htc/ace/proprietary/akmd:/system/bin/akmd \
     vendor/htc/ace/proprietary/bma150_usr:/system/bin/bma150_usr \
-    vendor/htc/ace/proprietary/htc_ebdlogd:/system/bin/htc_ebdlogd \
-    vendor/htc/ace/proprietary/logcat2:/system/bin/logcat2 \
     vendor/htc/ace/proprietary/rmt_storage:/system/bin/rmt_storage \
     vendor/htc/ace/proprietary/snd3254:/system/bin/snd3254 \
     vendor/htc/ace/proprietary/AudioBTID.csv:/system/etc/AudioBTID.csv \

@@ -59,7 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/ace/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/htc/ace/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
-    vendor/htc/ace/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so
+    vendor/htc/ace/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
     vendor/htc/ace/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/htc/ace/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/htc/ace/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \

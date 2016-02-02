@@ -19,9 +19,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/bin/akmd:system/bin/akmd \
-    vendor/htc/ace/proprietary/bin/awb_camera:system/bin/awb_camera \
     vendor/htc/ace/proprietary/bin/bma150_usr:system/bin/bma150_usr \
-    vendor/htc/ace/proprietary/bin/lsc_camera:system/bin/lsc_camera \
     vendor/htc/ace/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/htc/ace/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/ace/proprietary/etc/AudioBTID.csv:system/etc/AudioBTID.csv \
